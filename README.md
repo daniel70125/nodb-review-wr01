@@ -1,4 +1,4 @@
-# Pokemon Catching App
+# Item selling app
 
 ## Application Concept and Wireframe
 
