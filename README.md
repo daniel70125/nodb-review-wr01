@@ -39,8 +39,8 @@
 
 ### Wireframe
 
-<img src="./screenshots/To-DO.png">
+<img src="screenshots/To-Do.png">
 <img src="./screenshots/Wireframe-1.png">
-<img src="./screenshots/Wireframe-2.PNG">
+<img src="./screenshots/Wireframe-2.png">
 
 #Happy Coding !
