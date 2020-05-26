@@ -1,0 +1,22 @@
+[
+    {  
+        "id": 0,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71luGhqw0OL._AC_SX679_.jpg",
+        "title": "Hoverboard",
+        "price": 228.00
+
+    },
+    {
+        "id":1,
+        "img": "https://www.myrecordjournal.com/getattachment/e0a89911-8245-44a2-baaf-a4c043b0e866/attachment",
+        "title": "DMC Delorean",
+        "price": "500,000"
+    },
+    {
+        "id": 2,
+        "img": "https://s3.amazonaws.com/images.charitybuzz.com/images/200168/original.jpeg?1448472311",
+        "title": "Signed Marty Guitar",
+        "price": "225.99"
+    }
+    
+]
